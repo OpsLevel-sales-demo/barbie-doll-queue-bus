@@ -1,6 +1,7 @@
-## Queue Bus
+## Barbie Queue Bus
 
 This gem uses Redis and background queues that you are already using to allow simple asynchronous communication between apps.
+It includes Positivity Reminders and integrates positive and encouraging notifications or reminders
 
 ### Install
 
